@@ -37,13 +37,11 @@ Principais transformações aplicadas:
 - Seleção das colunas relevantes  
 - Renomeação e padronização de colunas  
 - Conversão de tipos de dados (ex: datas)  
-- Normalização de valores categóricos  
 
 ### Carga (carregar.py)
 
-- Geração do arquivo final jogadores.csv  
-- Encoding compatível com Excel (utf-8-sig)  
-
+- Geração do arquivo final jogadores.csv
+  
 
 ## Como Executar o Projeto
 
